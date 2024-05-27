@@ -1,3 +1,3 @@
 # Demo 🎥
 
-![](./React-App (1).png)
+![](./React-App-demo.png)
